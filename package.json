@@ -1,0 +1,10 @@
+{
+  "name": "default-timezone-for-country",
+  "version": "0.1.0",
+  "description": "Provides a reasonable default timezone for every country.",
+  "main": "index.js",
+  "repository": "https://github.com/rahulgi/default-timezones",
+  "author": "Rahul Gupta-Iwasaki",
+  "license": "MIT",
+  "private": false
+}
