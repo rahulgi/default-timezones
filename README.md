@@ -13,7 +13,8 @@ _Provides a reasonable default timezone for every country._
 - Uses the same timezones that
   [Microsoft](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones)
   does in Windows 10 when a user first logs in.
-- Exposes UTC offset info ("+XX:YY") indexed by ISO-3166 country code.
+- Exposes UTC offset info ("+XX:YY") indexed by
+  [ISO-3166](https://en.wikipedia.org/wiki/ISO_3166-2) country code.
 
 Right now, the easiest way to use it is probably just to copy the json file at `//data/default_timezone_by_country_code.json`.
 
