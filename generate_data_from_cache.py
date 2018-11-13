@@ -7,6 +7,14 @@ import json
 CACHE_DATA = "cache/default_timezones.tsv"
 OUTPUT = "data/default_timezone_by_country_code.json"
 
+def standardize_utc_offset(utc_offset):
+    """utc_offset format is either '(UTC)' or '(UTC+xx:xx)."""
+    if utc_offset == "(UTC)":
+        return "+00:00"
+    else:
+        return utc_offset[4:10]
+
+
 def main():
     # Ensure that ordering stays the same across runs on the same cache data.
     default_timezone_by_country_code = collections.OrderedDict()
@@ -23,7 +31,7 @@ def main():
                 "country_name": country,
                 "timezone_name": timezone,
                 "timezone_description": timezone_description,
-                "utc_offset": utc,
+                "utc_offset": standardize_utc_offset(utc),
             }
     with open(OUTPUT, "w") as output:
         json.dump(default_timezone_by_country_code, output, indent=4)
