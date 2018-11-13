@@ -3,9 +3,19 @@
 import collections
 import csv
 import json
+import os
 
-CACHE_DATA = "cache/default_timezones.tsv"
-OUTPUT = "data/default_timezone_by_country_code.json"
+
+def get_absolute_path(script_relative_path):
+    """Get the absolute real path of the given path."""
+    return os.path.join(
+        os.path.dirname(os.path.realpath(__file__)),
+        script_relative_path)
+
+
+CACHE_DATA = get_absolute_path("../cache/default_timezones.tsv")
+OUTPUT = get_absolute_path("../data/default_timezone_by_country_code.json")
+
 
 def standardize_utc_offset(utc_offset):
     """utc_offset format is either '(UTC)' or '(UTC+xx:xx)."""
@@ -39,3 +49,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
