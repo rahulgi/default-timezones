@@ -1,0 +1,6 @@
+The defaultTimezones.tsv file was retrieved from
+
+https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones
+
+on 2018/11/13.
+
