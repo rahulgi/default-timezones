@@ -1,4 +1,4 @@
-The defaultTimezones.tsv file was retrieved from
+The default_timezones.tsv file was retrieved from
 
 https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones
 

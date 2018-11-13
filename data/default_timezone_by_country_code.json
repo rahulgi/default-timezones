@@ -1,1495 +1,1495 @@
 {
     "AF": {
-        "country": "Afghanistan",
-        "timezone": "Afghanistan Standard Time",
+        "country_name": "Afghanistan",
+        "timezone_name": "Afghanistan Standard Time",
         "timezone_description": "Kabul",
         "utc_offset": "(UTC+04:30)"
     },
     "AX": {
-        "country": "\u00c5land Islands",
-        "timezone": "FLE Standard Time",
+        "country_name": "\u00c5land Islands",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "AL": {
-        "country": "Albania",
-        "timezone": "Central Europe Standard Time",
+        "country_name": "Albania",
+        "timezone_name": "Central Europe Standard Time",
         "timezone_description": "Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc_offset": "(UTC+01:00)"
     },
     "DZ": {
-        "country": "Algeria",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Algeria",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "AS": {
-        "country": "American Samoa",
-        "timezone": "UTC-11",
+        "country_name": "American Samoa",
+        "timezone_name": "UTC-11",
         "timezone_description": "Coordinated Universal Time-11",
         "utc_offset": "(UTC-11:00)"
     },
     "AD": {
-        "country": "Andorra",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Andorra",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "AO": {
-        "country": "Angola",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Angola",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "AI": {
-        "country": "Anguilla",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Anguilla",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "AQ": {
-        "country": "Antarctica",
-        "timezone": "Pacific SA Standard Time",
+        "country_name": "Antarctica",
+        "timezone_name": "Pacific SA Standard Time",
         "timezone_description": "Santiago",
         "utc_offset": "(UTC-03:00)"
     },
     "AG": {
-        "country": "Antigua and Barbuda",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Antigua and Barbuda",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "AR": {
-        "country": "Argentina",
-        "timezone": "Argentina Standard Time",
+        "country_name": "Argentina",
+        "timezone_name": "Argentina Standard Time",
         "timezone_description": "City of Buenos Aires",
         "utc_offset": "(UTC-03:00)"
     },
     "AM": {
-        "country": "Armenia",
-        "timezone": "Caucasus Standard Time",
+        "country_name": "Armenia",
+        "timezone_name": "Caucasus Standard Time",
         "timezone_description": "Yerevan",
         "utc_offset": "(UTC+04:00)"
     },
     "AW": {
-        "country": "Aruba",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Aruba",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "AU": {
-        "country": "Australia",
-        "timezone": "AUS Eastern Standard Time",
+        "country_name": "Australia",
+        "timezone_name": "AUS Eastern Standard Time",
         "timezone_description": "Canberra, Melbourne, Sydney",
         "utc_offset": "(UTC+10:00)"
     },
     "AT": {
-        "country": "Austria",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Austria",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "AZ": {
-        "country": "Azerbaijan",
-        "timezone": "Azerbaijan Standard Time",
+        "country_name": "Azerbaijan",
+        "timezone_name": "Azerbaijan Standard Time",
         "timezone_description": "Baku",
         "utc_offset": "(UTC+04:00)"
     },
     "BS": {
-        "country": "Bahamas, The",
-        "timezone": "Eastern Standard Time",
+        "country_name": "Bahamas, The",
+        "timezone_name": "Eastern Standard Time",
         "timezone_description": "Eastern Time (US & Canada)",
         "utc_offset": "(UTC-05:00)"
     },
     "BH": {
-        "country": "Bahrain",
-        "timezone": "Arab Standard Time",
+        "country_name": "Bahrain",
+        "timezone_name": "Arab Standard Time",
         "timezone_description": "Kuwait, Riyadh",
         "utc_offset": "(UTC+03:00)"
     },
     "BD": {
-        "country": "Bangladesh",
-        "timezone": "Bangladesh Standard Time",
+        "country_name": "Bangladesh",
+        "timezone_name": "Bangladesh Standard Time",
         "timezone_description": "Dhaka",
         "utc_offset": "(UTC+06:00)"
     },
     "BB": {
-        "country": "Barbados",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Barbados",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "BY": {
-        "country": "Belarus",
-        "timezone": "Belarus Standard Time",
+        "country_name": "Belarus",
+        "timezone_name": "Belarus Standard Time",
         "timezone_description": "Minsk",
         "utc_offset": "(UTC+03:00)"
     },
     "BE": {
-        "country": "Belgium",
-        "timezone": "Romance Standard Time",
+        "country_name": "Belgium",
+        "timezone_name": "Romance Standard Time",
         "timezone_description": "Brussels, Copenhagen, Madrid, Paris",
         "utc_offset": "(UTC+01:00)"
     },
     "BZ": {
-        "country": "Belize",
-        "timezone": "Central America Standard Time",
+        "country_name": "Belize",
+        "timezone_name": "Central America Standard Time",
         "timezone_description": "Central America",
         "utc_offset": "(UTC-06:00)"
     },
     "BJ": {
-        "country": "Benin",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Benin",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "BM": {
-        "country": "Bermuda",
-        "timezone": "Atlantic Standard Time",
+        "country_name": "Bermuda",
+        "timezone_name": "Atlantic Standard Time",
         "timezone_description": "Atlantic Time (Canada)",
         "utc_offset": "(UTC-04:00)"
     },
     "BT": {
-        "country": "Bhutan",
-        "timezone": "Bangladesh Standard Time",
+        "country_name": "Bhutan",
+        "timezone_name": "Bangladesh Standard Time",
         "timezone_description": "Dhaka",
         "utc_offset": "(UTC+06:00)"
     },
     "VE": {
-        "country": "Bolivarian Republic of Venezuela",
-        "timezone": "Venezuela Standard Time",
+        "country_name": "Bolivarian Republic of Venezuela",
+        "timezone_name": "Venezuela Standard Time",
         "timezone_description": "Caracas",
         "utc_offset": "(UTC-04:30)"
     },
     "BO": {
-        "country": "Bolivia",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Bolivia",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "BQ": {
-        "country": "Bonaire, Sint Eustatius and Saba",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "BA": {
-        "country": "Bosnia and Herzegovina",
-        "timezone": "Central European Standard Time",
+        "country_name": "Bosnia and Herzegovina",
+        "timezone_name": "Central European Standard Time",
         "timezone_description": "Sarajevo, Skopje, Warsaw, Zagreb",
         "utc_offset": "(UTC+01:00)"
     },
     "BW": {
-        "country": "Botswana",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Botswana",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "BV": {
-        "country": "Bouvet Island",
-        "timezone": "UTC",
+        "country_name": "Bouvet Island",
+        "timezone_name": "UTC",
         "timezone_description": "Coordinated Universal Time",
         "utc_offset": "(UTC)"
     },
     "BR": {
-        "country": "Brazil",
-        "timezone": "E. South America Standard Time",
+        "country_name": "Brazil",
+        "timezone_name": "E. South America Standard Time",
         "timezone_description": "Brasilia",
         "utc_offset": "(UTC-03:00)"
     },
     "IO": {
-        "country": "British Indian Ocean Territory",
-        "timezone": "Central Asia Standard Time",
+        "country_name": "British Indian Ocean Territory",
+        "timezone_name": "Central Asia Standard Time",
         "timezone_description": "Astana",
         "utc_offset": "(UTC+06:00)"
     },
     "BN": {
-        "country": "Brunei",
-        "timezone": "Singapore Standard Time",
+        "country_name": "Brunei",
+        "timezone_name": "Singapore Standard Time",
         "timezone_description": "Kuala Lumpur, Singapore",
         "utc_offset": "(UTC+08:00)"
     },
     "BG": {
-        "country": "Bulgaria",
-        "timezone": "FLE Standard Time",
+        "country_name": "Bulgaria",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "BF": {
-        "country": "Burkina Faso",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Burkina Faso",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "BI": {
-        "country": "Burundi",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Burundi",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "CV": {
-        "country": "Cabo Verde",
-        "timezone": "Cape Verde Standard Time",
+        "country_name": "Cabo Verde",
+        "timezone_name": "Cape Verde Standard Time",
         "timezone_description": "Cabo Verde Is.",
         "utc_offset": "(UTC-01:00)"
     },
     "KH": {
-        "country": "Cambodia",
-        "timezone": "SE Asia Standard Time",
+        "country_name": "Cambodia",
+        "timezone_name": "SE Asia Standard Time",
         "timezone_description": "Bangkok, Hanoi, Jakarta",
         "utc_offset": "(UTC+07:00)"
     },
     "CM": {
-        "country": "Cameroon",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Cameroon",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "CA": {
-        "country": "Canada",
-        "timezone": "Eastern Standard Time",
+        "country_name": "Canada",
+        "timezone_name": "Eastern Standard Time",
         "timezone_description": "Eastern Time (US & Canada)",
         "utc_offset": "(UTC-05:00)"
     },
     "KY": {
-        "country": "Cayman Islands",
-        "timezone": "SA Pacific Standard Time",
+        "country_name": "Cayman Islands",
+        "timezone_name": "SA Pacific Standard Time",
         "timezone_description": "Bogota, Lima, Quito, Rio Branco",
         "utc_offset": "(UTC-05:00)"
     },
     "CF": {
-        "country": "Central African Republic",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Central African Republic",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "TD": {
-        "country": "Chad",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Chad",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "CL": {
-        "country": "Chile",
-        "timezone": "Pacific SA Standard Time",
+        "country_name": "Chile",
+        "timezone_name": "Pacific SA Standard Time",
         "timezone_description": "Santiago",
         "utc_offset": "(UTC-03:00)"
     },
     "CN": {
-        "country": "China",
-        "timezone": "China Standard Time",
+        "country_name": "China",
+        "timezone_name": "China Standard Time",
         "timezone_description": "Beijing, Chongqing, Hong Kong, Urumqi",
         "utc_offset": "(UTC+08:00)"
     },
     "CX": {
-        "country": "Christmas Island",
-        "timezone": "SE Asia Standard Time",
+        "country_name": "Christmas Island",
+        "timezone_name": "SE Asia Standard Time",
         "timezone_description": "Bangkok, Hanoi, Jakarta",
         "utc_offset": "(UTC+07:00)"
     },
     "CC": {
-        "country": "Cocos (Keeling) Islands",
-        "timezone": "Myanmar Standard Time",
+        "country_name": "Cocos (Keeling) Islands",
+        "timezone_name": "Myanmar Standard Time",
         "timezone_description": "Yangon (Rangoon)",
         "utc_offset": "(UTC+06:30)"
     },
     "CO": {
-        "country": "Colombia",
-        "timezone": "SA Pacific Standard Time",
+        "country_name": "Colombia",
+        "timezone_name": "SA Pacific Standard Time",
         "timezone_description": "Bogota, Lima, Quito, Rio Branco",
         "utc_offset": "(UTC-05:00)"
     },
     "KM": {
-        "country": "Comoros",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Comoros",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "CG": {
-        "country": "Congo",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Congo",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "CD": {
-        "country": "Congo (DRC)",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Congo (DRC)",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "CK": {
-        "country": "Cook Islands",
-        "timezone": "Hawaiian Standard Time",
+        "country_name": "Cook Islands",
+        "timezone_name": "Hawaiian Standard Time",
         "timezone_description": "Hawaii",
         "utc_offset": "(UTC-10:00)"
     },
     "CR": {
-        "country": "Costa Rica",
-        "timezone": "Central America Standard Time",
+        "country_name": "Costa Rica",
+        "timezone_name": "Central America Standard Time",
         "timezone_description": "Central America",
         "utc_offset": "(UTC-06:00)"
     },
     "CI": {
-        "country": "C\u00f4te d'Ivoire",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "C\u00f4te d'Ivoire",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "HR": {
-        "country": "Croatia",
-        "timezone": "Central European Standard Time",
+        "country_name": "Croatia",
+        "timezone_name": "Central European Standard Time",
         "timezone_description": "Sarajevo, Skopje, Warsaw, Zagreb",
         "utc_offset": "(UTC+01:00)"
     },
     "CU": {
-        "country": "Cuba",
-        "timezone": "Eastern Standard Time",
+        "country_name": "Cuba",
+        "timezone_name": "Eastern Standard Time",
         "timezone_description": "Eastern Time (US & Canada)",
         "utc_offset": "(UTC-05:00)"
     },
     "CW": {
-        "country": "Cura\u00e7ao",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Cura\u00e7ao",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "CY": {
-        "country": "Cyprus",
-        "timezone": "E. Europe Standard Time",
+        "country_name": "Cyprus",
+        "timezone_name": "E. Europe Standard Time",
         "timezone_description": "E. Europe",
         "utc_offset": "(UTC+02:00)"
     },
     "CZ": {
-        "country": "Czech Republic",
-        "timezone": "Central Europe Standard Time",
+        "country_name": "Czech Republic",
+        "timezone_name": "Central Europe Standard Time",
         "timezone_description": "Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc_offset": "(UTC+01:00)"
     },
     "TL": {
-        "country": "Democratic Republic of Timor-Leste",
-        "timezone": "Tokyo Standard Time",
+        "country_name": "Democratic Republic of Timor-Leste",
+        "timezone_name": "Tokyo Standard Time",
         "timezone_description": "Osaka, Sapporo, Tokyo",
         "utc_offset": "(UTC+09:00)"
     },
     "DK": {
-        "country": "Denmark",
-        "timezone": "Romance Standard Time",
+        "country_name": "Denmark",
+        "timezone_name": "Romance Standard Time",
         "timezone_description": "Brussels, Copenhagen, Madrid, Paris",
         "utc_offset": "(UTC+01:00)"
     },
     "DJ": {
-        "country": "Djibouti",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Djibouti",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "DM": {
-        "country": "Dominica",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Dominica",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "DO": {
-        "country": "Dominican Republic",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Dominican Republic",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "EC": {
-        "country": "Ecuador",
-        "timezone": "SA Pacific Standard Time",
+        "country_name": "Ecuador",
+        "timezone_name": "SA Pacific Standard Time",
         "timezone_description": "Bogota, Lima, Quito, Rio Branco",
         "utc_offset": "(UTC-05:00)"
     },
     "EG": {
-        "country": "Egypt",
-        "timezone": "Egypt Standard Time",
+        "country_name": "Egypt",
+        "timezone_name": "Egypt Standard Time",
         "timezone_description": "Cairo",
         "utc_offset": "(UTC+02:00)"
     },
     "SV": {
-        "country": "El Salvador",
-        "timezone": "Central America Standard Time",
+        "country_name": "El Salvador",
+        "timezone_name": "Central America Standard Time",
         "timezone_description": "Central America",
         "utc_offset": "(UTC-06:00)"
     },
     "GQ": {
-        "country": "Equatorial Guinea",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Equatorial Guinea",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "ER": {
-        "country": "Eritrea",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Eritrea",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "EE": {
-        "country": "Estonia",
-        "timezone": "FLE Standard Time",
+        "country_name": "Estonia",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "ET": {
-        "country": "Ethiopia",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Ethiopia",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "FK": {
-        "country": "Falkland Islands (Islas Malvinas)",
-        "timezone": "SA Eastern Standard Time",
+        "country_name": "Falkland Islands (Islas Malvinas)",
+        "timezone_name": "SA Eastern Standard Time",
         "timezone_description": "Cayenne, Fortaleza",
         "utc_offset": "(UTC-03:00)"
     },
     "FO": {
-        "country": "Faroe Islands",
-        "timezone": "GMT Standard Time",
+        "country_name": "Faroe Islands",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "FJ": {
-        "country": "Fiji Islands",
-        "timezone": "Fiji Standard Time",
+        "country_name": "Fiji Islands",
+        "timezone_name": "Fiji Standard Time",
         "timezone_description": "Fiji",
         "utc_offset": "(UTC+12:00)"
     },
     "FI": {
-        "country": "Finland",
-        "timezone": "FLE Standard Time",
+        "country_name": "Finland",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "FR": {
-        "country": "France",
-        "timezone": "Romance Standard Time",
+        "country_name": "France",
+        "timezone_name": "Romance Standard Time",
         "timezone_description": "Brussels, Copenhagen, Madrid, Paris",
         "utc_offset": "(UTC+01:00)"
     },
     "GF": {
-        "country": "French Guiana",
-        "timezone": "SA Eastern Standard Time",
+        "country_name": "French Guiana",
+        "timezone_name": "SA Eastern Standard Time",
         "timezone_description": "Cayenne, Fortaleza",
         "utc_offset": "(UTC-03:00)"
     },
     "PF": {
-        "country": "French Polynesia",
-        "timezone": "Hawaiian Standard Time",
+        "country_name": "French Polynesia",
+        "timezone_name": "Hawaiian Standard Time",
         "timezone_description": "Hawaii",
         "utc_offset": "(UTC-10:00)"
     },
     "TF": {
-        "country": "French Southern and Antarctic Lands",
-        "timezone": "West Asia Standard Time",
+        "country_name": "French Southern and Antarctic Lands",
+        "timezone_name": "West Asia Standard Time",
         "timezone_description": "Ashgabat, Tashkent",
         "utc_offset": "(UTC+05:00)"
     },
     "GA": {
-        "country": "Gabon",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Gabon",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "GM": {
-        "country": "Gambia, The",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Gambia, The",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "GE": {
-        "country": "Georgia",
-        "timezone": "Georgian Standard Time",
+        "country_name": "Georgia",
+        "timezone_name": "Georgian Standard Time",
         "timezone_description": "Tbilisi",
         "utc_offset": "(UTC+04:00)"
     },
     "DE": {
-        "country": "Germany",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Germany",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "GH": {
-        "country": "Ghana",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Ghana",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "GI": {
-        "country": "Gibraltar",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Gibraltar",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "GR": {
-        "country": "Greece",
-        "timezone": "GTB Standard Time",
+        "country_name": "Greece",
+        "timezone_name": "GTB Standard Time",
         "timezone_description": "Athens, Bucharest",
         "utc_offset": "(UTC+02:00)"
     },
     "GL": {
-        "country": "Greenland",
-        "timezone": "Greenland Standard Time",
+        "country_name": "Greenland",
+        "timezone_name": "Greenland Standard Time",
         "timezone_description": "Greenland",
         "utc_offset": "(UTC-03:00)"
     },
     "GD": {
-        "country": "Grenada",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Grenada",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "GP": {
-        "country": "Guadeloupe",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Guadeloupe",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "GU": {
-        "country": "Guam",
-        "timezone": "West Pacific Standard Time",
+        "country_name": "Guam",
+        "timezone_name": "West Pacific Standard Time",
         "timezone_description": "Guam, Port Moresby",
         "utc_offset": "(UTC+10:00)"
     },
     "GT": {
-        "country": "Guatemala",
-        "timezone": "Central America Standard Time",
+        "country_name": "Guatemala",
+        "timezone_name": "Central America Standard Time",
         "timezone_description": "Central America",
         "utc_offset": "(UTC-06:00)"
     },
     "GG": {
-        "country": "Guernsey",
-        "timezone": "GMT Standard Time",
+        "country_name": "Guernsey",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "GN": {
-        "country": "Guinea",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Guinea",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "GW": {
-        "country": "Guinea-Bissau",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Guinea-Bissau",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "GY": {
-        "country": "Guyana",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Guyana",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "HT": {
-        "country": "Haiti",
-        "timezone": "Eastern Standard Time",
+        "country_name": "Haiti",
+        "timezone_name": "Eastern Standard Time",
         "timezone_description": "Eastern Time (US & Canada)",
         "utc_offset": "(UTC-05:00)"
     },
     "HM": {
-        "country": "Heard Island and McDonald Islands",
-        "timezone": "Mauritius Standard Time",
+        "country_name": "Heard Island and McDonald Islands",
+        "timezone_name": "Mauritius Standard Time",
         "timezone_description": "Port Louis",
         "utc_offset": "(UTC+04:00)"
     },
     "HN": {
-        "country": "Honduras",
-        "timezone": "Central America Standard Time",
+        "country_name": "Honduras",
+        "timezone_name": "Central America Standard Time",
         "timezone_description": "Central America",
         "utc_offset": "(UTC-06:00)"
     },
     "HK": {
-        "country": "Hong Kong SAR",
-        "timezone": "China Standard Time",
+        "country_name": "Hong Kong SAR",
+        "timezone_name": "China Standard Time",
         "timezone_description": "Beijing, Chongqing, Hong Kong, Urumqi",
         "utc_offset": "(UTC+08:00)"
     },
     "HU": {
-        "country": "Hungary",
-        "timezone": "Central Europe Standard Time",
+        "country_name": "Hungary",
+        "timezone_name": "Central Europe Standard Time",
         "timezone_description": "Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc_offset": "(UTC+01:00)"
     },
     "IS": {
-        "country": "Iceland",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Iceland",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "IN": {
-        "country": "India",
-        "timezone": "India Standard Time",
+        "country_name": "India",
+        "timezone_name": "India Standard Time",
         "timezone_description": "Chennai, Kolkata, Mumbai, New Delhi",
         "utc_offset": "(UTC+05:30)"
     },
     "ID": {
-        "country": "Indonesia",
-        "timezone": "SE Asia Standard Time",
+        "country_name": "Indonesia",
+        "timezone_name": "SE Asia Standard Time",
         "timezone_description": "Bangkok, Hanoi, Jakarta",
         "utc_offset": "(UTC+07:00)"
     },
     "IR": {
-        "country": "Iran",
-        "timezone": "Iran Standard Time",
+        "country_name": "Iran",
+        "timezone_name": "Iran Standard Time",
         "timezone_description": "Tehran",
         "utc_offset": "(UTC+03:30)"
     },
     "IQ": {
-        "country": "Iraq",
-        "timezone": "Arabic Standard Time",
+        "country_name": "Iraq",
+        "timezone_name": "Arabic Standard Time",
         "timezone_description": "Baghdad",
         "utc_offset": "(UTC+03:00)"
     },
     "IE": {
-        "country": "Ireland",
-        "timezone": "GMT Standard Time",
+        "country_name": "Ireland",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "IL": {
-        "country": "Israel",
-        "timezone": "Israel Standard Time",
+        "country_name": "Israel",
+        "timezone_name": "Israel Standard Time",
         "timezone_description": "Jerusalem",
         "utc_offset": "(UTC+02:00)"
     },
     "IT": {
-        "country": "Italy",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Italy",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "JM": {
-        "country": "Jamaica",
-        "timezone": "SA Pacific Standard Time",
+        "country_name": "Jamaica",
+        "timezone_name": "SA Pacific Standard Time",
         "timezone_description": "Bogota, Lima, Quito, Rio Branco",
         "utc_offset": "(UTC-05:00)"
     },
     "SJ": {
-        "country": "Svalbard",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Svalbard",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "JP": {
-        "country": "Japan",
-        "timezone": "Tokyo Standard Time",
+        "country_name": "Japan",
+        "timezone_name": "Tokyo Standard Time",
         "timezone_description": "Osaka, Sapporo, Tokyo",
         "utc_offset": "(UTC+09:00)"
     },
     "JE": {
-        "country": "Jersey",
-        "timezone": "GMT Standard Time",
+        "country_name": "Jersey",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "JO": {
-        "country": "Jordan",
-        "timezone": "Jordan Standard Time",
+        "country_name": "Jordan",
+        "timezone_name": "Jordan Standard Time",
         "timezone_description": "Amman",
         "utc_offset": "(UTC+02:00)"
     },
     "KZ": {
-        "country": "Kazakhstan",
-        "timezone": "Central Asia Standard Time",
+        "country_name": "Kazakhstan",
+        "timezone_name": "Central Asia Standard Time",
         "timezone_description": "Astana",
         "utc_offset": "(UTC+06:00)"
     },
     "KE": {
-        "country": "Kenya",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Kenya",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "KI": {
-        "country": "Kiribati",
-        "timezone": "UTC+12",
+        "country_name": "Kiribati",
+        "timezone_name": "UTC+12",
         "timezone_description": "Coordinated Universal Time+12",
         "utc_offset": "(UTC+12:00)"
     },
     "KR": {
-        "country": "Korea",
-        "timezone": "Korea Standard Time",
+        "country_name": "Korea",
+        "timezone_name": "Korea Standard Time",
         "timezone_description": "Seoul",
         "utc_offset": "(UTC+09:00)"
     },
     "XK": {
-        "country": "Kosovo",
-        "timezone": "Central European Standard Time",
+        "country_name": "Kosovo",
+        "timezone_name": "Central European Standard Time",
         "timezone_description": "Sarajevo, Skopje, Warsaw, Zagreb",
         "utc_offset": "(UTC+01:00)"
     },
     "KW": {
-        "country": "Kuwait",
-        "timezone": "Arab Standard Time",
+        "country_name": "Kuwait",
+        "timezone_name": "Arab Standard Time",
         "timezone_description": "Kuwait, Riyadh",
         "utc_offset": "(UTC+03:00)"
     },
     "KG": {
-        "country": "Kyrgyzstan",
-        "timezone": "Central Asia Standard Time",
+        "country_name": "Kyrgyzstan",
+        "timezone_name": "Central Asia Standard Time",
         "timezone_description": "Astana",
         "utc_offset": "(UTC+06:00)"
     },
     "LA": {
-        "country": "Laos",
-        "timezone": "SE Asia Standard Time",
+        "country_name": "Laos",
+        "timezone_name": "SE Asia Standard Time",
         "timezone_description": "Bangkok, Hanoi, Jakarta",
         "utc_offset": "(UTC+07:00)"
     },
     "LV": {
-        "country": "Latvia",
-        "timezone": "FLE Standard Time",
+        "country_name": "Latvia",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "LB": {
-        "country": "Lebanon",
-        "timezone": "Middle East Standard Time",
+        "country_name": "Lebanon",
+        "timezone_name": "Middle East Standard Time",
         "timezone_description": "Beirut",
         "utc_offset": "(UTC+02:00)"
     },
     "LS": {
-        "country": "Lesotho",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Lesotho",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "LR": {
-        "country": "Liberia",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Liberia",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "LY": {
-        "country": "Libya",
-        "timezone": "E. Europe Standard Time",
+        "country_name": "Libya",
+        "timezone_name": "E. Europe Standard Time",
         "timezone_description": "E. Europe",
         "utc_offset": "(UTC+02:00)"
     },
     "LI": {
-        "country": "Liechtenstein",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Liechtenstein",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "LT": {
-        "country": "Lithuania",
-        "timezone": "FLE Standard Time",
+        "country_name": "Lithuania",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "LU": {
-        "country": "Luxembourg",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Luxembourg",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "MO": {
-        "country": "Macao SAR",
-        "timezone": "China Standard Time",
+        "country_name": "Macao SAR",
+        "timezone_name": "China Standard Time",
         "timezone_description": "Beijing, Chongqing, Hong Kong, Urumqi",
         "utc_offset": "(UTC+08:00)"
     },
     "MK": {
-        "country": "Macedonia, Former Yugoslav Republic of",
-        "timezone": "Central European Standard Time",
+        "country_name": "Macedonia, Former Yugoslav Republic of",
+        "timezone_name": "Central European Standard Time",
         "timezone_description": "Sarajevo, Skopje, Warsaw, Zagreb",
         "utc_offset": "(UTC+01:00)"
     },
     "MG": {
-        "country": "Madagascar",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Madagascar",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "MW": {
-        "country": "Malawi",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Malawi",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "MY": {
-        "country": "Malaysia",
-        "timezone": "Singapore Standard Time",
+        "country_name": "Malaysia",
+        "timezone_name": "Singapore Standard Time",
         "timezone_description": "Kuala Lumpur, Singapore",
         "utc_offset": "(UTC+08:00)"
     },
     "MV": {
-        "country": "Maldives",
-        "timezone": "West Asia Standard Time",
+        "country_name": "Maldives",
+        "timezone_name": "West Asia Standard Time",
         "timezone_description": "Ashgabat, Tashkent",
         "utc_offset": "(UTC+05:00)"
     },
     "ML": {
-        "country": "Mali",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Mali",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "MT": {
-        "country": "Malta",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Malta",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "IM": {
-        "country": "Man, Isle of",
-        "timezone": "GMT Standard Time",
+        "country_name": "Man, Isle of",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "MH": {
-        "country": "Marshall Islands",
-        "timezone": "UTC+12",
+        "country_name": "Marshall Islands",
+        "timezone_name": "UTC+12",
         "timezone_description": "Coordinated Universal Time+12",
         "utc_offset": "(UTC+12:00)"
     },
     "MQ": {
-        "country": "Martinique",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Martinique",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "MR": {
-        "country": "Mauritania",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Mauritania",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "MU": {
-        "country": "Mauritius",
-        "timezone": "Mauritius Standard Time",
+        "country_name": "Mauritius",
+        "timezone_name": "Mauritius Standard Time",
         "timezone_description": "Port Louis",
         "utc_offset": "(UTC+04:00)"
     },
     "YT": {
-        "country": "Mayotte",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Mayotte",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "MX": {
-        "country": "Mexico",
-        "timezone": "Central Standard Time (Mexico)",
+        "country_name": "Mexico",
+        "timezone_name": "Central Standard Time (Mexico)",
         "timezone_description": "Guadalajara, Mexico City, Monterrey",
         "utc_offset": "(UTC-06:00)"
     },
     "FM": {
-        "country": "Micronesia",
-        "timezone": "West Pacific Standard Time",
+        "country_name": "Micronesia",
+        "timezone_name": "West Pacific Standard Time",
         "timezone_description": "Guam, Port Moresby",
         "utc_offset": "(UTC+10:00)"
     },
     "MD": {
-        "country": "Moldova",
-        "timezone": "GTB Standard Time",
+        "country_name": "Moldova",
+        "timezone_name": "GTB Standard Time",
         "timezone_description": "Athens, Bucharest",
         "utc_offset": "(UTC+02:00)"
     },
     "MC": {
-        "country": "Monaco",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Monaco",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "MN": {
-        "country": "Mongolia",
-        "timezone": "Ulaanbaatar Standard Time",
+        "country_name": "Mongolia",
+        "timezone_name": "Ulaanbaatar Standard Time",
         "timezone_description": "Ulaanbaatar",
         "utc_offset": "(UTC+08:00)"
     },
     "ME": {
-        "country": "Montenegro",
-        "timezone": "Central European Standard Time",
+        "country_name": "Montenegro",
+        "timezone_name": "Central European Standard Time",
         "timezone_description": "Sarajevo, Skopje, Warsaw, Zagreb",
         "utc_offset": "(UTC+01:00)"
     },
     "MS": {
-        "country": "Montserrat",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Montserrat",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "MA": {
-        "country": "Morocco",
-        "timezone": "Morocco Standard Time",
+        "country_name": "Morocco",
+        "timezone_name": "Morocco Standard Time",
         "timezone_description": "Casablanca",
         "utc_offset": "(UTC)"
     },
     "MZ": {
-        "country": "Mozambique",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Mozambique",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "MM": {
-        "country": "Myanmar",
-        "timezone": "Myanmar Standard Time",
+        "country_name": "Myanmar",
+        "timezone_name": "Myanmar Standard Time",
         "timezone_description": "Yangon (Rangoon)",
         "utc_offset": "(UTC+06:30)"
     },
     "NA": {
-        "country": "Namibia",
-        "timezone": "Namibia Standard Time",
+        "country_name": "Namibia",
+        "timezone_name": "Namibia Standard Time",
         "timezone_description": "Windhoek",
         "utc_offset": "(UTC+01:00)"
     },
     "NR": {
-        "country": "Nauru",
-        "timezone": "UTC+12",
+        "country_name": "Nauru",
+        "timezone_name": "UTC+12",
         "timezone_description": "Coordinated Universal Time+12",
         "utc_offset": "(UTC+12:00)"
     },
     "NP": {
-        "country": "Nepal",
-        "timezone": "Nepal Standard Time",
+        "country_name": "Nepal",
+        "timezone_name": "Nepal Standard Time",
         "timezone_description": "Kathmandu",
         "utc_offset": "(UTC+05:45)"
     },
     "NL": {
-        "country": "Netherlands",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Netherlands",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "NC": {
-        "country": "New Caledonia",
-        "timezone": "Central Pacific Standard Time",
+        "country_name": "New Caledonia",
+        "timezone_name": "Central Pacific Standard Time",
         "timezone_description": "Solomon Is., New Caledonia",
         "utc_offset": "(UTC+11:00)"
     },
     "NZ": {
-        "country": "New Zealand",
-        "timezone": "New Zealand Standard Time",
+        "country_name": "New Zealand",
+        "timezone_name": "New Zealand Standard Time",
         "timezone_description": "Auckland, Wellington",
         "utc_offset": "(UTC+12:00)"
     },
     "NI": {
-        "country": "Nicaragua",
-        "timezone": "Central America Standard Time",
+        "country_name": "Nicaragua",
+        "timezone_name": "Central America Standard Time",
         "timezone_description": "Central America",
         "utc_offset": "(UTC-06:00)"
     },
     "NE": {
-        "country": "Niger",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Niger",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "NG": {
-        "country": "Nigeria",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Nigeria",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "NU": {
-        "country": "Niue",
-        "timezone": "UTC-11",
+        "country_name": "Niue",
+        "timezone_name": "UTC-11",
         "timezone_description": "Coordinated Universal Time-11",
         "utc_offset": "(UTC-11:00)"
     },
     "NF": {
-        "country": "Norfolk Island",
-        "timezone": "Central Pacific Standard Time",
+        "country_name": "Norfolk Island",
+        "timezone_name": "Central Pacific Standard Time",
         "timezone_description": "Solomon Is., New Caledonia",
         "utc_offset": "(UTC+11:00)"
     },
     "KP": {
-        "country": "North Korea",
-        "timezone": "Korea Standard Time",
+        "country_name": "North Korea",
+        "timezone_name": "Korea Standard Time",
         "timezone_description": "Seoul",
         "utc_offset": "(UTC+09:00)"
     },
     "MP": {
-        "country": "Northern Mariana Islands",
-        "timezone": "West Pacific Standard Time",
+        "country_name": "Northern Mariana Islands",
+        "timezone_name": "West Pacific Standard Time",
         "timezone_description": "Guam, Port Moresby",
         "utc_offset": "(UTC+10:00)"
     },
     "NO": {
-        "country": "Norway",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Norway",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "OM": {
-        "country": "Oman",
-        "timezone": "Arabian Standard Time",
+        "country_name": "Oman",
+        "timezone_name": "Arabian Standard Time",
         "timezone_description": "Abu Dhabi, Muscat",
         "utc_offset": "(UTC+04:00)"
     },
     "PK": {
-        "country": "Pakistan",
-        "timezone": "Pakistan Standard Time",
+        "country_name": "Pakistan",
+        "timezone_name": "Pakistan Standard Time",
         "timezone_description": "Islamabad, Karachi",
         "utc_offset": "(UTC+05:00)"
     },
     "PW": {
-        "country": "Palau",
-        "timezone": "Tokyo Standard Time",
+        "country_name": "Palau",
+        "timezone_name": "Tokyo Standard Time",
         "timezone_description": "Osaka, Sapporo, Tokyo",
         "utc_offset": "(UTC+09:00)"
     },
     "PS": {
-        "country": "Palestinian Authority",
-        "timezone": "Egypt Standard Time",
+        "country_name": "Palestinian Authority",
+        "timezone_name": "Egypt Standard Time",
         "timezone_description": "Cairo",
         "utc_offset": "(UTC+02:00)"
     },
     "PA": {
-        "country": "Panama",
-        "timezone": "SA Pacific Standard Time",
+        "country_name": "Panama",
+        "timezone_name": "SA Pacific Standard Time",
         "timezone_description": "Bogota, Lima, Quito, Rio Branco",
         "utc_offset": "(UTC-05:00)"
     },
     "PG": {
-        "country": "Papua New Guinea",
-        "timezone": "West Pacific Standard Time",
+        "country_name": "Papua New Guinea",
+        "timezone_name": "West Pacific Standard Time",
         "timezone_description": "Guam, Port Moresby",
         "utc_offset": "(UTC+10:00)"
     },
     "PY": {
-        "country": "Paraguay",
-        "timezone": "Paraguay Standard Time",
+        "country_name": "Paraguay",
+        "timezone_name": "Paraguay Standard Time",
         "timezone_description": "Asuncion",
         "utc_offset": "(UTC-04:00)"
     },
     "PE": {
-        "country": "Peru",
-        "timezone": "SA Pacific Standard Time",
+        "country_name": "Peru",
+        "timezone_name": "SA Pacific Standard Time",
         "timezone_description": "Bogota, Lima, Quito, Rio Branco",
         "utc_offset": "(UTC-05:00)"
     },
     "PH": {
-        "country": "Philippines",
-        "timezone": "Singapore Standard Time",
+        "country_name": "Philippines",
+        "timezone_name": "Singapore Standard Time",
         "timezone_description": "Kuala Lumpur, Singapore",
         "utc_offset": "(UTC+08:00)"
     },
     "PN": {
-        "country": "Pitcairn Islands",
-        "timezone": "Pacific Standard Time",
+        "country_name": "Pitcairn Islands",
+        "timezone_name": "Pacific Standard Time",
         "timezone_description": "Pacific Time (US & Canada)",
         "utc_offset": "(UTC-08:00)"
     },
     "PL": {
-        "country": "Poland",
-        "timezone": "Central European Standard Time",
+        "country_name": "Poland",
+        "timezone_name": "Central European Standard Time",
         "timezone_description": "Sarajevo, Skopje, Warsaw, Zagreb",
         "utc_offset": "(UTC+01:00)"
     },
     "PT": {
-        "country": "Portugal",
-        "timezone": "GMT Standard Time",
+        "country_name": "Portugal",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "PR": {
-        "country": "Puerto Rico",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Puerto Rico",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "QA": {
-        "country": "Qatar",
-        "timezone": "Arab Standard Time",
+        "country_name": "Qatar",
+        "timezone_name": "Arab Standard Time",
         "timezone_description": "Kuwait, Riyadh",
         "utc_offset": "(UTC+03:00)"
     },
     "RE": {
-        "country": "Reunion",
-        "timezone": "Mauritius Standard Time",
+        "country_name": "Reunion",
+        "timezone_name": "Mauritius Standard Time",
         "timezone_description": "Port Louis",
         "utc_offset": "(UTC+04:00)"
     },
     "RO": {
-        "country": "Romania",
-        "timezone": "GTB Standard Time",
+        "country_name": "Romania",
+        "timezone_name": "GTB Standard Time",
         "timezone_description": "Athens, Bucharest",
         "utc_offset": "(UTC+02:00)"
     },
     "RU": {
-        "country": "Russia",
-        "timezone": "Russian Standard Time",
+        "country_name": "Russia",
+        "timezone_name": "Russian Standard Time",
         "timezone_description": "Moscow, St. Petersburg, Volgograd (RTZ 2)",
         "utc_offset": "(UTC+03:00)"
     },
     "RW": {
-        "country": "Rwanda",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Rwanda",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "BL": {
-        "country": "Saint Barth\u00e9lemy",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Saint Barth\u00e9lemy",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "SH": {
-        "country": "Saint Helena, Ascension and Tristan da Cunha",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "KN": {
-        "country": "Saint Kitts and Nevis",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Saint Kitts and Nevis",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "LC": {
-        "country": "Saint Lucia",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Saint Lucia",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "MF": {
-        "country": "Saint Martin (French part)",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Saint Martin (French part)",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "PM": {
-        "country": "Saint Pierre and Miquelon",
-        "timezone": "Greenland Standard Time",
+        "country_name": "Saint Pierre and Miquelon",
+        "timezone_name": "Greenland Standard Time",
         "timezone_description": "Greenland",
         "utc_offset": "(UTC-03:00)"
     },
     "VC": {
-        "country": "Saint Vincent and the Grenadines",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Saint Vincent and the Grenadines",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "WS": {
-        "country": "Samoa",
-        "timezone": "Samoa Standard Time",
+        "country_name": "Samoa",
+        "timezone_name": "Samoa Standard Time",
         "timezone_description": "Samoa",
         "utc_offset": "(UTC+13:00)"
     },
     "SM": {
-        "country": "San Marino",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "San Marino",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "ST": {
-        "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "SA": {
-        "country": "Saudi Arabia",
-        "timezone": "Arab Standard Time",
+        "country_name": "Saudi Arabia",
+        "timezone_name": "Arab Standard Time",
         "timezone_description": "Kuwait, Riyadh",
         "utc_offset": "(UTC+03:00)"
     },
     "SN": {
-        "country": "Senegal",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Senegal",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "RS": {
-        "country": "Serbia",
-        "timezone": "Central Europe Standard Time",
+        "country_name": "Serbia",
+        "timezone_name": "Central Europe Standard Time",
         "timezone_description": "Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc_offset": "(UTC+01:00)"
     },
     "SC": {
-        "country": "Seychelles",
-        "timezone": "Mauritius Standard Time",
+        "country_name": "Seychelles",
+        "timezone_name": "Mauritius Standard Time",
         "timezone_description": "Port Louis",
         "utc_offset": "(UTC+04:00)"
     },
     "SL": {
-        "country": "Sierra Leone",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Sierra Leone",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "SG": {
-        "country": "Singapore",
-        "timezone": "Singapore Standard Time",
+        "country_name": "Singapore",
+        "timezone_name": "Singapore Standard Time",
         "timezone_description": "Kuala Lumpur, Singapore",
         "utc_offset": "(UTC+08:00)"
     },
     "SX": {
-        "country": "Sint Maarten (Dutch part)",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Sint Maarten (Dutch part)",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "SK": {
-        "country": "Slovakia",
-        "timezone": "Central Europe Standard Time",
+        "country_name": "Slovakia",
+        "timezone_name": "Central Europe Standard Time",
         "timezone_description": "Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc_offset": "(UTC+01:00)"
     },
     "SI": {
-        "country": "Slovenia",
-        "timezone": "Central Europe Standard Time",
+        "country_name": "Slovenia",
+        "timezone_name": "Central Europe Standard Time",
         "timezone_description": "Belgrade, Bratislava, Budapest, Ljubljana, Prague",
         "utc_offset": "(UTC+01:00)"
     },
     "SB": {
-        "country": "Solomon Islands",
-        "timezone": "Central Pacific Standard Time",
+        "country_name": "Solomon Islands",
+        "timezone_name": "Central Pacific Standard Time",
         "timezone_description": "Solomon Is., New Caledonia",
         "utc_offset": "(UTC+11:00)"
     },
     "SO": {
-        "country": "Somalia",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Somalia",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "ZA": {
-        "country": "South Africa",
-        "timezone": "South Africa Standard Time",
+        "country_name": "South Africa",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "GS": {
-        "country": "South Georgia and the South Sandwich Islands",
-        "timezone": "UTC-02",
+        "country_name": "South Georgia and the South Sandwich Islands",
+        "timezone_name": "UTC-02",
         "timezone_description": "Coordinated Universal Time-02",
         "utc_offset": "(UTC-02:00)"
     },
     "SS": {
-        "country": "South Sudan",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "South Sudan",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "ES": {
-        "country": "Spain",
-        "timezone": "Romance Standard Time",
+        "country_name": "Spain",
+        "timezone_name": "Romance Standard Time",
         "timezone_description": "Brussels, Copenhagen, Madrid, Paris",
         "utc_offset": "(UTC+01:00)"
     },
     "LK": {
-        "country": "Sri Lanka",
-        "timezone": "Sri Lanka Standard Time",
+        "country_name": "Sri Lanka",
+        "timezone_name": "Sri Lanka Standard Time",
         "timezone_description": "Sri Jayawardenepura",
         "utc_offset": "(UTC+05:30)"
     },
     "SD": {
-        "country": "Sudan",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Sudan",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "SR": {
-        "country": "Suriname",
-        "timezone": "SA Eastern Standard Time",
+        "country_name": "Suriname",
+        "timezone_name": "SA Eastern Standard Time",
         "timezone_description": "Cayenne, Fortaleza",
         "utc_offset": "(UTC-03:00)"
     },
     "SZ": {
-        "country": "Swaziland",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Swaziland",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "SE": {
-        "country": "Sweden",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Sweden",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "CH": {
-        "country": "Switzerland",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Switzerland",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "SY": {
-        "country": "Syria",
-        "timezone": "Syria Standard Time",
+        "country_name": "Syria",
+        "timezone_name": "Syria Standard Time",
         "timezone_description": "Damascus",
         "utc_offset": "(UTC+02:00)"
     },
     "TW": {
-        "country": "Taiwan",
-        "timezone": "Taipei Standard Time",
+        "country_name": "Taiwan",
+        "timezone_name": "Taipei Standard Time",
         "timezone_description": "Taipei",
         "utc_offset": "(UTC+08:00)"
     },
     "TJ": {
-        "country": "Tajikistan",
-        "timezone": "West Asia Standard Time",
+        "country_name": "Tajikistan",
+        "timezone_name": "West Asia Standard Time",
         "timezone_description": "Ashgabat, Tashkent",
         "utc_offset": "(UTC+05:00)"
     },
     "TZ": {
-        "country": "Tanzania",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Tanzania",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "TH": {
-        "country": "Thailand",
-        "timezone": "SE Asia Standard Time",
+        "country_name": "Thailand",
+        "timezone_name": "SE Asia Standard Time",
         "timezone_description": "Bangkok, Hanoi, Jakarta",
         "utc_offset": "(UTC+07:00)"
     },
     "TG": {
-        "country": "Togo",
-        "timezone": "Greenwich Standard Time",
+        "country_name": "Togo",
+        "timezone_name": "Greenwich Standard Time",
         "timezone_description": "Monrovia, Reykjavik",
         "utc_offset": "(UTC)"
     },
     "TK": {
-        "country": "Tokelau",
-        "timezone": "Tonga Standard Time",
+        "country_name": "Tokelau",
+        "timezone_name": "Tonga Standard Time",
         "timezone_description": "Nuku'alofa",
         "utc_offset": "(UTC+13:00)"
     },
     "TO": {
-        "country": "Tonga",
-        "timezone": "Tonga Standard Time",
+        "country_name": "Tonga",
+        "timezone_name": "Tonga Standard Time",
         "timezone_description": "Nuku'alofa",
         "utc_offset": "(UTC+13:00)"
     },
     "TT": {
-        "country": "Trinidad and Tobago",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Trinidad and Tobago",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "TN": {
-        "country": "Tunisia",
-        "timezone": "W. Central Africa Standard Time",
+        "country_name": "Tunisia",
+        "timezone_name": "W. Central Africa Standard Time",
         "timezone_description": "West Central Africa",
         "utc_offset": "(UTC+01:00)"
     },
     "TR": {
-        "country": "Turkey",
-        "timezone": "Turkey Standard Time",
+        "country_name": "Turkey",
+        "timezone_name": "Turkey Standard Time",
         "timezone_description": "Istanbul",
         "utc_offset": "(UTC+02:00)"
     },
     "TM": {
-        "country": "Turkmenistan",
-        "timezone": "West Asia Standard Time",
+        "country_name": "Turkmenistan",
+        "timezone_name": "West Asia Standard Time",
         "timezone_description": "Ashgabat, Tashkent",
         "utc_offset": "(UTC+05:00)"
     },
     "TC": {
-        "country": "Turks and Caicos Islands",
-        "timezone": "Eastern Standard Time",
+        "country_name": "Turks and Caicos Islands",
+        "timezone_name": "Eastern Standard Time",
         "timezone_description": "Eastern Time (US & Canada)",
         "utc_offset": "(UTC-05:00)"
     },
     "TV": {
-        "country": "Tuvalu",
-        "timezone": "UTC+12",
+        "country_name": "Tuvalu",
+        "timezone_name": "UTC+12",
         "timezone_description": "Coordinated Universal Time+12",
         "utc_offset": "(UTC+12:00)"
     },
     "UM": {
-        "country": "U.S. Minor Outlying Islands",
-        "timezone": "UTC-11",
+        "country_name": "U.S. Minor Outlying Islands",
+        "timezone_name": "UTC-11",
         "timezone_description": "Coordinated Universal Time-11",
         "utc_offset": "(UTC-11:00)"
     },
     "UG": {
-        "country": "Uganda",
-        "timezone": "E. Africa Standard Time",
+        "country_name": "Uganda",
+        "timezone_name": "E. Africa Standard Time",
         "timezone_description": "Nairobi",
         "utc_offset": "(UTC+03:00)"
     },
     "UA": {
-        "country": "Ukraine",
-        "timezone": "FLE Standard Time",
+        "country_name": "Ukraine",
+        "timezone_name": "FLE Standard Time",
         "timezone_description": "Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
         "utc_offset": "(UTC+02:00)"
     },
     "AE": {
-        "country": "United Arab Emirates",
-        "timezone": "Arabian Standard Time",
+        "country_name": "United Arab Emirates",
+        "timezone_name": "Arabian Standard Time",
         "timezone_description": "Abu Dhabi, Muscat",
         "utc_offset": "(UTC+04:00)"
     },
     "GB": {
-        "country": "United Kingdom",
-        "timezone": "GMT Standard Time",
+        "country_name": "United Kingdom",
+        "timezone_name": "GMT Standard Time",
         "timezone_description": "Dublin, Edinburgh, Lisbon, London",
         "utc_offset": "(UTC)"
     },
     "US": {
-        "country": "United States",
-        "timezone": "Pacific Standard Time",
+        "country_name": "United States",
+        "timezone_name": "Pacific Standard Time",
         "timezone_description": "Pacific Time (US & Canada)",
         "utc_offset": "(UTC-08:00)"
     },
     "UY": {
-        "country": "Uruguay",
-        "timezone": "Montevideo Standard Time",
+        "country_name": "Uruguay",
+        "timezone_name": "Montevideo Standard Time",
         "timezone_description": "Montevideo",
         "utc_offset": "(UTC-03:00)"
     },
     "UZ": {
-        "country": "Uzbekistan",
-        "timezone": "West Asia Standard Time",
+        "country_name": "Uzbekistan",
+        "timezone_name": "West Asia Standard Time",
         "timezone_description": "Ashgabat, Tashkent",
         "utc_offset": "(UTC+05:00)"
     },
     "VU": {
-        "country": "Vanuatu",
-        "timezone": "Central Pacific Standard Time",
+        "country_name": "Vanuatu",
+        "timezone_name": "Central Pacific Standard Time",
         "timezone_description": "Solomon Is., New Caledonia",
         "utc_offset": "(UTC+11:00)"
     },
     "VA": {
-        "country": "Vatican City",
-        "timezone": "W. Europe Standard Time",
+        "country_name": "Vatican City",
+        "timezone_name": "W. Europe Standard Time",
         "timezone_description": "Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
         "utc_offset": "(UTC+01:00)"
     },
     "VN": {
-        "country": "Vietnam",
-        "timezone": "SE Asia Standard Time",
+        "country_name": "Vietnam",
+        "timezone_name": "SE Asia Standard Time",
         "timezone_description": "Bangkok, Hanoi, Jakarta",
         "utc_offset": "(UTC+07:00)"
     },
     "VI": {
-        "country": "Virgin Islands, U.S.",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Virgin Islands, U.S.",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "VG": {
-        "country": "Virgin Islands, British",
-        "timezone": "SA Western Standard Time",
+        "country_name": "Virgin Islands, British",
+        "timezone_name": "SA Western Standard Time",
         "timezone_description": "Georgetown, La Paz, Manaus, San Juan",
         "utc_offset": "(UTC-04:00)"
     },
     "WF": {
-        "country": "Wallis and Futuna",
-        "timezone": "UTC+12",
+        "country_name": "Wallis and Futuna",
+        "timezone_name": "UTC+12",
         "timezone_description": "Coordinated Universal Time+12",
         "utc_offset": "(UTC+12:00)"
     },
     "YE": {
-        "country": "Yemen",
-        "timezone": "Arab Standard Time",
+        "country_name": "Yemen",
+        "timezone_name": "Arab Standard Time",
         "timezone_description": "Kuwait, Riyadh",
         "utc_offset": "(UTC+03:00)"
     },
     "ZM": {
-        "country": "Zambia",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Zambia",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     },
     "ZW": {
-        "country": "Zimbabwe",
-        "timezone": "South Africa Standard Time",
+        "country_name": "Zimbabwe",
+        "timezone_name": "South Africa Standard Time",
         "timezone_description": "Harare, Pretoria",
         "utc_offset": "(UTC+02:00)"
     }
